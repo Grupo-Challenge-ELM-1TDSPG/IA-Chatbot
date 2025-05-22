@@ -36,3 +36,7 @@ Text to Speech FIAP
 API key: qrdTRxWEZK2BST2IAvS5yRi41_aiqAsnRKQHHQtSVAsB
 
 URL: https://api.us-south.speech-to-text.watson.cloud.ibm.com/instances/00089234-3b2e-4c88-a059-418d09b01989
+
+
+
+Link do github: https://github.com/Grupo-Challenge-ELM-1TDSPG/IA-Chatbot

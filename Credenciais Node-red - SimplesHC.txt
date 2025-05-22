@@ -1,0 +1,38 @@
+SimplesHC - Grupo ELM
+
+Integrantes:
+-Enzo Okuizumi RM561432
+-Lucas Barros Gouveia RM566422
+-Milton Marcelino RM564836
+
+Vídeo do youtube:
+https://youtu.be/z_5HE-FMguU?si=d2cYOj5iUTMToKFV
+
+
+Token Telegram - SimplesHC
+
+7596630649:AAE4WBZXMU0FZ7Dh9p1KW7OZymoPJOYdzlg
+
+================================================
+
+Token Watson Assistant
+
+API key: Z9djyvqbEzqY8ohMxD9Z8zwN3QJEJaUgE_0MDrCnl96r
+
+URL: https://api.us-south.assistant.watson.cloud.ibm.com/instances/ba04109b-07dd-469b-bf3a-53a3a71ae680
+
+ASsistant id: d84af718-b476-413b-8623-f3aa94ba3755
+
+================================================
+
+Speech to Text FIAP
+API key: qrdTRxWEZK2BST2IAvS5yRi41_aiqAsnRKQHHQtSVAsB
+
+URL: https://api.us-south.text-to-speech.watson.cloud.ibm.com/instances/4ea26c6b-4a9b-4501-a35f-e536b401db4b
+
+================================================
+
+Text to Speech FIAP
+API key: qrdTRxWEZK2BST2IAvS5yRi41_aiqAsnRKQHHQtSVAsB
+
+URL: https://api.us-south.speech-to-text.watson.cloud.ibm.com/instances/00089234-3b2e-4c88-a059-418d09b01989

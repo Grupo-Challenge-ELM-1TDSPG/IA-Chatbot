@@ -9,9 +9,11 @@ Vídeo do youtube:
 https://youtu.be/z_5HE-FMguU?si=d2cYOj5iUTMToKFV
 
 
-Token Telegram - SimplesHC
+Telegrambot:
 
-7596630649:AAE4WBZXMU0FZ7Dh9p1KW7OZymoPJOYdzlg
+Nome: SimplesHC
+
+Token: 7596630649:AAE4WBZXMU0FZ7Dh9p1KW7OZymoPJOYdzlg
 
 ================================================
 

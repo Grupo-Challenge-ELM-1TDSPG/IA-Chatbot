@@ -67,6 +67,9 @@
           "text": "Alguém ai"
         },
         {
+          "text": "bem vindo"
+        },
+        {
           "text": "Boa noite"
         },
         {
@@ -74,6 +77,9 @@
         },
         {
           "text": "Bom dia"
+        },
+        {
+          "text": "começar"
         },
         {
           "text": "Como vai"
@@ -92,6 +98,9 @@
         },
         {
           "text": "hey"
+        },
+        {
+          "text": "hi"
         },
         {
           "text": "Oi, como posso usar isso"
@@ -121,7 +130,16 @@
           "text": "Salve"
         },
         {
+          "text": "/start"
+        },
+        {
+          "text": "start"
+        },
+        {
           "text": "Watson"
+        },
+        {
+          "text": "welcome"
         }
       ],
       "description": "O usuário vai dizer olá"
